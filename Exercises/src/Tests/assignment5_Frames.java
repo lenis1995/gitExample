@@ -13,7 +13,10 @@ public class assignment5_Frames {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		
+		int in=0;
+		String s="felicidad,paciencia,persistencia";
+		char c='d';
+		boolean b=false;
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\lenix\\Desktop\\CURSOS PROGRAMACIÓN\\CURSO SELENIUM "
 				+ "CON JAVA\\CURSO SELENIUM UDEMY\\DRIVERS\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver;

@@ -19,6 +19,10 @@ public class calendar {
 		System.out.println("The last git example");
 		
 		System.out.println("This is the last one I promise");
+		int in=0;
+		String s="felicidad,paciencia,persistencia";
+		char c='d';
+		boolean b=false;
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\lenix\\Desktop\\CURSOS PROGRAMACIÓN\\CURSO SELENIUM "
 				+ "CON JAVA\\CURSO SELENIUM UDEMY\\DRIVERS\\chromedriver_win32\\chromedriver.exe");
