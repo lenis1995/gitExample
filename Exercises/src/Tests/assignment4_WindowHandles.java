@@ -37,6 +37,8 @@ public class assignment4_WindowHandles {
 		
 		System.out.println(driver.switchTo().window(winHan1).getTitle());
 		driver.close(); //For just close the current window
+		
+		System.out.println("Learning git management");
 	}
 
 }
